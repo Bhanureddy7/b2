@@ -1,0 +1,31 @@
+.col
+{
+    color: green;
+    text-align: center;
+    background-color: lightgray;
+    width: 300px;
+    height: 200px;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+.button1
+{
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    
+}
+.button2
+{
+    background-color: white;
+    border-radius: 5px;
+    color:black;
+    
+}
+.button3
+{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    
+}
